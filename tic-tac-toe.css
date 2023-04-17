@@ -1,0 +1,35 @@
+h1 {
+    text-align:center;
+    font-size:40px;
+    padding:10px 0px;
+    font-family:arial;
+}
+
+main {
+    display:flex;
+    height:500px;
+    width:100%;
+    justify-content:center;
+    margin-top:50px;
+}
+
+article {
+    height:510px;
+    width:510px;
+    display:grid;
+    grid-template-columns:auto auto auto;
+    row-gap:0px;
+    border:1px solid black;
+}
+
+button {
+    background-color:rgb(66, 179, 100);
+}
+
+button:hover{
+    background-color:blueviolet;
+    color:white;
+    border:none;
+    cursor:pointer;
+}
+
