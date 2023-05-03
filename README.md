@@ -1,3 +1,3 @@
 # Tic-Tac-Toe
 
-This game was built with vannila Javascript
+This game was built with vanilla Javascript
